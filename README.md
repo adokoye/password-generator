@@ -9,4 +9,8 @@ This is an application that an employee can use to generate a random password ba
 
 ### Screenshot
 
-### Links# password-generator
+### Links
+[Live URL] https://adokoye.github.io/password-generator/
+
+[Github repository] https://github.com/adokoye/password-generator
+
